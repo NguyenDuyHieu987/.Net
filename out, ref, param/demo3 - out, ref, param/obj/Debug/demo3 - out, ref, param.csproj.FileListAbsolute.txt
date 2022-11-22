@@ -1,0 +1,14 @@
+D:\lap trinh C#\demo3 - out, ref, param\demo3 - out, ref, param\bin\Debug\demo3 - out, ref, param.exe.config
+D:\lap trinh C#\demo3 - out, ref, param\demo3 - out, ref, param\bin\Debug\demo3 - out, ref, param.exe
+D:\lap trinh C#\demo3 - out, ref, param\demo3 - out, ref, param\bin\Debug\demo3 - out, ref, param.pdb
+D:\lap trinh C#\demo3 - out, ref, param\demo3 - out, ref, param\obj\Debug\demo3 - out, ref, param.csprojAssemblyReference.cache
+D:\lap trinh C#\demo3 - out, ref, param\demo3 - out, ref, param\obj\Debug\demo3 - out, ref, param.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\demo3 - out, ref, param\demo3 - out, ref, param\obj\Debug\demo3 - out, ref, param.exe
+D:\lap trinh C#\demo3 - out, ref, param\demo3 - out, ref, param\obj\Debug\demo3 - out, ref, param.pdb
+D:\lap trinh C#\out, ref, param\demo3 - out, ref, param\bin\Debug\demo3 - out, ref, param.exe.config
+D:\lap trinh C#\out, ref, param\demo3 - out, ref, param\bin\Debug\demo3 - out, ref, param.exe
+D:\lap trinh C#\out, ref, param\demo3 - out, ref, param\bin\Debug\demo3 - out, ref, param.pdb
+D:\lap trinh C#\out, ref, param\demo3 - out, ref, param\obj\Debug\demo3 - out, ref, param.csprojAssemblyReference.cache
+D:\lap trinh C#\out, ref, param\demo3 - out, ref, param\obj\Debug\demo3 - out, ref, param.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\out, ref, param\demo3 - out, ref, param\obj\Debug\demo3 - out, ref, param.exe
+D:\lap trinh C#\out, ref, param\demo3 - out, ref, param\obj\Debug\demo3 - out, ref, param.pdb

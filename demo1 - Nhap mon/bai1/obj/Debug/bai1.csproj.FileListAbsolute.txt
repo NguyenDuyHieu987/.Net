@@ -1,0 +1,14 @@
+D:\Visual studio C++\bai1\bai1\bin\Debug\bai1.exe.config
+D:\Visual studio C++\bai1\bai1\bin\Debug\bai1.exe
+D:\Visual studio C++\bai1\bai1\bin\Debug\bai1.pdb
+D:\Visual studio C++\bai1\bai1\obj\Debug\bai1.csprojAssemblyReference.cache
+D:\Visual studio C++\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\Visual studio C++\bai1\bai1\obj\Debug\bai1.exe
+D:\Visual studio C++\bai1\bai1\obj\Debug\bai1.pdb
+D:\lap trinh C#\bai1\bai1\bin\Debug\bai1.exe.config
+D:\lap trinh C#\bai1\bai1\bin\Debug\bai1.exe
+D:\lap trinh C#\bai1\bai1\bin\Debug\bai1.pdb
+D:\lap trinh C#\bai1\bai1\obj\Debug\bai1.csprojAssemblyReference.cache
+D:\lap trinh C#\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\bai1\bai1\obj\Debug\bai1.exe
+D:\lap trinh C#\bai1\bai1\obj\Debug\bai1.pdb

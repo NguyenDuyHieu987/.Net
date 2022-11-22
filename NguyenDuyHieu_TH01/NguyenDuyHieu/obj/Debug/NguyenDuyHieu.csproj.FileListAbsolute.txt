@@ -1,0 +1,7 @@
+D:\lap trinh C#\NguyenDuyHieu\NguyenDuyHieu\bin\Debug\NguyenDuyHieu.exe.config
+D:\lap trinh C#\NguyenDuyHieu\NguyenDuyHieu\bin\Debug\NguyenDuyHieu.exe
+D:\lap trinh C#\NguyenDuyHieu\NguyenDuyHieu\bin\Debug\NguyenDuyHieu.pdb
+D:\lap trinh C#\NguyenDuyHieu\NguyenDuyHieu\obj\Debug\NguyenDuyHieu.csprojAssemblyReference.cache
+D:\lap trinh C#\NguyenDuyHieu\NguyenDuyHieu\obj\Debug\NguyenDuyHieu.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\NguyenDuyHieu\NguyenDuyHieu\obj\Debug\NguyenDuyHieu.exe
+D:\lap trinh C#\NguyenDuyHieu\NguyenDuyHieu\obj\Debug\NguyenDuyHieu.pdb

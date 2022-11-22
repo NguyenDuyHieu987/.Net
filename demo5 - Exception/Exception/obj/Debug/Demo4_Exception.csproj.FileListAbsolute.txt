@@ -1,0 +1,7 @@
+D:\Visual studio C++\Exception\Exception\bin\Debug\Exception.exe.config
+D:\Visual studio C++\Exception\Exception\bin\Debug\Exception.exe
+D:\Visual studio C++\Exception\Exception\bin\Debug\Exception.pdb
+D:\Visual studio C++\Exception\Exception\obj\Debug\Demo4_Exception.csproj.CoreCompileInputs.cache
+D:\Visual studio C++\Exception\Exception\obj\Debug\Exception.exe
+D:\Visual studio C++\Exception\Exception\obj\Debug\Exception.pdb
+D:\Visual studio C++\Exception\Exception\obj\Debug\Demo4_Exception.csprojAssemblyReference.cache

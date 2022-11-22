@@ -1,0 +1,11 @@
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\bin\Debug\NguyenDuyHieu_D15CNPM2.exe.config
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\bin\Debug\NguyenDuyHieu_D15CNPM2.exe
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\bin\Debug\NguyenDuyHieu_D15CNPM2.pdb
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\obj\Debug\NguyenDuyHieu_D15CNPM2.csprojAssemblyReference.cache
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\obj\Debug\NguyenDuyHieu_D15CNPM2.Properties.Resources.resources
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\obj\Debug\NguyenDuyHieu_D15CNPM2.csproj.GenerateResource.cache
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\obj\Debug\NguyenDuyHieu_D15CNPM2.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\obj\Debug\NguyenDuyHieu_D15CNPM2.exe
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\obj\Debug\NguyenDuyHieu_D15CNPM2.pdb
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\obj\Debug\NguyenDuyHieu_D15CNPM2.HangSanXuat.resources
+D:\lap trinh C#\NguyenDuyHieu_D15CNPM2\NguyenDuyHieu_D15CNPM2\obj\Debug\NguyenDuyHieu_D15CNPM2.MayBay.resources

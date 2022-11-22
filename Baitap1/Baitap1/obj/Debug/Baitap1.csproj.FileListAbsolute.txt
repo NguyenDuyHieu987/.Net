@@ -1,0 +1,7 @@
+D:\lap trinh C#\Baitap1\Baitap1\bin\Debug\Baitap1.exe.config
+D:\lap trinh C#\Baitap1\Baitap1\bin\Debug\Baitap1.exe
+D:\lap trinh C#\Baitap1\Baitap1\bin\Debug\Baitap1.pdb
+D:\lap trinh C#\Baitap1\Baitap1\obj\Debug\Baitap1.csprojAssemblyReference.cache
+D:\lap trinh C#\Baitap1\Baitap1\obj\Debug\Baitap1.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\Baitap1\Baitap1\obj\Debug\Baitap1.exe
+D:\lap trinh C#\Baitap1\Baitap1\obj\Debug\Baitap1.pdb

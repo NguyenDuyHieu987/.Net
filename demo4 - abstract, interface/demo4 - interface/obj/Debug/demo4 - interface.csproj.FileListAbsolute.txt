@@ -1,0 +1,14 @@
+D:\lap trinh C#\demo4 - interface\demo4 - interface\obj\Debug\demo4 - interface.csprojAssemblyReference.cache
+D:\lap trinh C#\demo4 - interface\demo4 - interface\obj\Debug\demo4 - interface.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\demo4 - interface\demo4 - interface\bin\Debug\demo4 - interface.exe.config
+D:\lap trinh C#\demo4 - interface\demo4 - interface\bin\Debug\demo4 - interface.exe
+D:\lap trinh C#\demo4 - interface\demo4 - interface\bin\Debug\demo4 - interface.pdb
+D:\lap trinh C#\demo4 - interface\demo4 - interface\obj\Debug\demo4 - interface.exe
+D:\lap trinh C#\demo4 - interface\demo4 - interface\obj\Debug\demo4 - interface.pdb
+D:\lap trinh C#\demo4 - abstract, interface\demo4 - interface\obj\Debug\demo4 - interface.csprojAssemblyReference.cache
+D:\lap trinh C#\demo4 - abstract, interface\demo4 - interface\obj\Debug\demo4 - interface.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\demo4 - abstract, interface\demo4 - interface\obj\Debug\demo4 - interface.exe
+D:\lap trinh C#\demo4 - abstract, interface\demo4 - interface\obj\Debug\demo4 - interface.pdb
+D:\lap trinh C#\demo4 - abstract, interface\demo4 - interface\bin\Debug\demo4 - interface.exe.config
+D:\lap trinh C#\demo4 - abstract, interface\demo4 - interface\bin\Debug\demo4 - interface.exe
+D:\lap trinh C#\demo4 - abstract, interface\demo4 - interface\bin\Debug\demo4 - interface.pdb

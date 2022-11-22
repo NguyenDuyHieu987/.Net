@@ -1,0 +1,7 @@
+D:\lap trinh C#\demo3 - class\demo3 - class\bin\Debug\demo3 - class.exe.config
+D:\lap trinh C#\demo3 - class\demo3 - class\bin\Debug\demo3 - class.exe
+D:\lap trinh C#\demo3 - class\demo3 - class\bin\Debug\demo3 - class.pdb
+D:\lap trinh C#\demo3 - class\demo3 - class\obj\Debug\demo3 - class.csprojAssemblyReference.cache
+D:\lap trinh C#\demo3 - class\demo3 - class\obj\Debug\demo3 - class.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\demo3 - class\demo3 - class\obj\Debug\demo3 - class.exe
+D:\lap trinh C#\demo3 - class\demo3 - class\obj\Debug\demo3 - class.pdb

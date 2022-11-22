@@ -1,0 +1,7 @@
+D:\lap trinh C#\demo5 - Exception\Exception\bin\Debug\Exception.exe.config
+D:\lap trinh C#\demo5 - Exception\Exception\bin\Debug\Exception.exe
+D:\lap trinh C#\demo5 - Exception\Exception\bin\Debug\Exception.pdb
+D:\lap trinh C#\demo5 - Exception\Exception\obj\Debug\Demo5_Exception.csprojAssemblyReference.cache
+D:\lap trinh C#\demo5 - Exception\Exception\obj\Debug\Demo5_Exception.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\demo5 - Exception\Exception\obj\Debug\Exception.exe
+D:\lap trinh C#\demo5 - Exception\Exception\obj\Debug\Exception.pdb

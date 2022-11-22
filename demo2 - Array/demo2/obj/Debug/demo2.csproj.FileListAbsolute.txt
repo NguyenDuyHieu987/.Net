@@ -1,0 +1,14 @@
+D:\lap trinh C#\demo2\demo2\bin\Debug\demo2.exe.config
+D:\lap trinh C#\demo2\demo2\bin\Debug\demo2.exe
+D:\lap trinh C#\demo2\demo2\bin\Debug\demo2.pdb
+D:\lap trinh C#\demo2\demo2\obj\Debug\demo2.csprojAssemblyReference.cache
+D:\lap trinh C#\demo2\demo2\obj\Debug\demo2.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\demo2\demo2\obj\Debug\demo2.exe
+D:\lap trinh C#\demo2\demo2\obj\Debug\demo2.pdb
+D:\lap trinh C#\demo2 - Array\demo2\bin\Debug\demo2.exe.config
+D:\lap trinh C#\demo2 - Array\demo2\bin\Debug\demo2.exe
+D:\lap trinh C#\demo2 - Array\demo2\bin\Debug\demo2.pdb
+D:\lap trinh C#\demo2 - Array\demo2\obj\Debug\demo2.csprojAssemblyReference.cache
+D:\lap trinh C#\demo2 - Array\demo2\obj\Debug\demo2.csproj.CoreCompileInputs.cache
+D:\lap trinh C#\demo2 - Array\demo2\obj\Debug\demo2.exe
+D:\lap trinh C#\demo2 - Array\demo2\obj\Debug\demo2.pdb
